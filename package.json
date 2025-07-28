@@ -18,6 +18,6 @@
     "crypto": "^1.0.1",
     "@hapi/boom": "^10.0.0",
     "mongodb": "^6.8.0",
-    "@whiskeysockets/baileys-mongo": "3.0.0" 
+    
 }
 }
